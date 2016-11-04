@@ -27,8 +27,9 @@ learning techiqnue.
 ###Source of project idea
    ----------------------
 
-Take a book in electronic format like a Jane Austen book from project Gutenberg. Take the last chapter in that book. Remove all the spaces.
+Credit to @Monica Anderson
 
+Take a book in electronic format like a Jane Austen book from project Gutenberg. Take the last chapter in that book. Remove all the spaces.
 Now write a computer program to put all the spaces back. You can easily count how many it got right since you have the original text.
 
 1. Do it using Hidden Markov Models based on a frequency dictionary of English.
@@ -37,6 +38,9 @@ Now write a computer program to put all the spaces back. You can easily count ho
 
 3. Do it using machine learning to learn a Model of English based on all the other chapters of the book as a training corpus using only unsupervised learning.
 
-You can expect to get about 85% correct using the first two methods.
-If you get results better than 95% correct, talk to me.
-If you get 99.99% correct using #3 then you have created a true AI.
+- You can expect to get about 85% correct using the first two methods.
+
+- If you get results better than 95% correct, talk to me.
+
+- If you get 99.99% correct using #3 then you have created a true AI.
+
