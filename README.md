@@ -11,7 +11,7 @@
 	- A.I. of the Future
 - Introduction to Python
 	- [Basics](http://www.learnpythonthehardway.com)
-	- Numpy 
+	- [Numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 	- Pandas
 	- Multithreading
 - Introduction to Machine Learning
