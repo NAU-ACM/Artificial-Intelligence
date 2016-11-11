@@ -18,7 +18,7 @@
 	- [Neural Networks](www.http://neuralnetworksanddeeplearning.com/chap6.html)
 - Industry collaboration
 	- Research
-	- Team based projects
+	- [Team based projects](www.kaggel.com)
 - NanoDegree preparation
 	- Machine Learning
 	- Data Analysis
