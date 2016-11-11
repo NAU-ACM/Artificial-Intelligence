@@ -10,7 +10,7 @@
 	- A.I. of Today
 	- A.I. of the Future
 - Introduction to Python
-	- Basics
+	- [Basics](www.learnpythonthehardway.com)
 	- Numpy 
 	- Pandas
 	- Multithreading
