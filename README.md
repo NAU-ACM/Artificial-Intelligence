@@ -15,7 +15,7 @@
 	- Pandas
 	- Multithreading
 - Introduction to Machine Learning
-	- Neural Networks
+	- [Neural Networks](www.http://neuralnetworksanddeeplearning.com/chap6.html)
 - Industry collaboration
 	- Research
 	- Team based projects
