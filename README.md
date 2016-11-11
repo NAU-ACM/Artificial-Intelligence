@@ -18,10 +18,10 @@
 	- [Neural Networks](http://neuralnetworksanddeeplearning.com/chap6.html)
 - Industry collaboration
 	- Research
-	- [Team based projects](http://www.kaggel.com)
+	- [Team based projects](http://www.kaggle.com)
 - NanoDegree preparation
-	- Machine Learning
-	- Data Analysis
+	- [Machine Learning](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+	- [Data Analysis](https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4)
 
 
 ### Resources
