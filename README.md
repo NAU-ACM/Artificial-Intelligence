@@ -10,15 +10,15 @@
 	- A.I. of Today
 	- A.I. of the Future
 - Introduction to Python
-	- [Basics](www.learnpythonthehardway.com)
+	- [Basics](http://www.learnpythonthehardway.com)
 	- Numpy 
 	- Pandas
 	- Multithreading
 - Introduction to Machine Learning
-	- [Neural Networks](www.http://neuralnetworksanddeeplearning.com/chap6.html)
+	- [Neural Networks](http://neuralnetworksanddeeplearning.com/chap6.html)
 - Industry collaboration
 	- Research
-	- [Team based projects](www.kaggel.com)
+	- [Team based projects](http://www.kaggel.com)
 - NanoDegree preparation
 	- Machine Learning
 	- Data Analysis
