@@ -19,5 +19,7 @@
 - Industry collaboration
 	- Research
 	- Team based projects
-
+- NanoDegree preparation
+	- Machine Learning
+	- Data Analysis
 
