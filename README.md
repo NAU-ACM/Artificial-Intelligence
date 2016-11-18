@@ -5,8 +5,19 @@
 ### Table of contents
 
 - Fundamentals of A.I.
+	- What is A.I.?
+	- Uses of A.I.
+	- A.I. of Today
+	- A.I. of the Future
 - Introduction to Python
+	- Basics
+	- Numpy 
+	- Pandas
+	- Multithreading
 - Introduction to Machine Learning
-- Kaggle
+	- Neural Networks
+- Industry collaboration
+	- Research
+	- Team based projects
 
 
