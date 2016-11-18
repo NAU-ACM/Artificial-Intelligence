@@ -23,3 +23,10 @@
 	- Machine Learning
 	- Data Analysis
 
+
+### Resources
+
+**Machines Learning for Software Engineers**
+
+- https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
