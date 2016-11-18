@@ -30,3 +30,22 @@
 
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
+
+
+### Member commitments and expectations
+ 
+*A member must*
+
+- Commit at least one hour a day for lab studies
+- Be communicative and responsive to lab initiatives
+- Take on leadership role and advance the lab's interests
+- Show upmost dedication to projects and research incentives
+- Help other lab development and offer assistance to fellow memebers
+- Join online communities such as Stack Overflow, Kaggle, Quora and may more
+
+*The lab will*
+
+- Make it's members feel welcome
+- Offer great exoeriences and opportunities
+- Improve social and technical skills needed for success
+- Make you work smart not hard!
