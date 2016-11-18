@@ -49,3 +49,8 @@
 - Offer great exoeriences and opportunities
 - Improve social and technical skills needed for success
 - Make you work smart not hard!
+
+*Lab meeting schedule*
+
+- Thursday 2:00PM - 2:30PM (ACM @Research Lab)
+- Friday 6:00PM - 8:00PM (Starbucks)
