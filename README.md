@@ -4,9 +4,9 @@
 
 ### Table of contents
 
-1- Fundamentals of A.I.
-2- Introduction to Python
-3- Introduction to Machine Learning
-4- Kaggle
+- Fundamentals of A.I.
+- Introduction to Python
+- Introduction to Machine Learning
+- Kaggle
 
 
