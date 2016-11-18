@@ -40,8 +40,8 @@
 - Be communicative and responsive to lab initiatives
 - Take on leadership role and advance the lab's interests
 - Show upmost dedication to projects and research incentives
-- Help other lab development and offer assistance to fellow memebers
-- Join online communities such as Stack Overflow, Kaggle, Quora and may more
+- Help other lab development and offer assistance to fellow members
+- Join online communities such as Stack Overflow, Kaggle, Quora and others
 
 *The lab will*
 
