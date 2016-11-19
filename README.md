@@ -46,7 +46,7 @@
 *The lab will*
 
 - Make it's members feel welcome
-- Offer great exoeriences and opportunities
+- Offer great experiences and opportunities
 - Improve social and technical skills needed for success
 - Make you work smart not hard!
 
