@@ -12,8 +12,7 @@
 - Introduction to Python
 	- [Basics](http://www.learnpythonthehardway.com)
 	- [Numpy](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
-	- Pandas
-	- Multithreading
+	- [Pandas](http://pandas.pydata.org)
 - Introduction to Machine Learning
 	- [Neural Networks](http://neuralnetworksanddeeplearning.com/chap6.html)
 - Industry collaboration
@@ -29,7 +28,6 @@
 *Machines Learning for Software Engineers*
 
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
-
 
 
 ### Member commitments and expectations
